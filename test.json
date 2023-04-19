@@ -1,0 +1,69 @@
+{
+  "website": {
+    "title": "Sample Website",
+    "meta": {
+      "description": "This is a sample website created using JSON format.",
+      "keywords": ["sample", "website", "json"]
+    },
+    "header": {
+      "logo": {
+        "src": "https://example.com/logo.png",
+        "alt": "Sample Website Logo"
+      },
+      "heading": "Welcome to Our Sample Website"
+    },
+    "navigation": {
+      "menuItems": [
+        {
+          "name": "Home",
+          "url": "https://example.com"
+        },
+        {
+          "name": "About",
+          "url": "https://example.com/about"
+        },
+        {
+          "name": "Services",
+          "url": "https://example.com/services"
+        },
+        {
+          "name": "Contact",
+          "url": "https://example.com/contact"
+        }
+      ]
+    },
+    "mainContent": {
+      "sections": [
+        {
+          "title": "Introduction",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum."
+        },
+        {
+          "title": "Our Services",
+          "content": "Aliquam eget quam vel quam porttitor ullamcorper ac eget odio."
+        },
+        {
+          "title": "Contact Us",
+          "content": "Praesent eu massa vel diam laoreet elementum ac sed felis."
+        }
+      ]
+    },
+    "footer": {
+      "copyright": "Copyright &copy; 2023 Sample Website",
+      "socialLinks": [
+        {
+          "name": "Facebook",
+          "url": "https://www.facebook.com/samplewebsite"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/samplewebsite"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/company/samplewebsite"
+        }
+      ]
+    }
+  }
+}
